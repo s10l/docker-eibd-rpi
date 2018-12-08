@@ -16,7 +16,7 @@ docker run \
 	-p 6720:6720 \
 	-p 3671:3671/udp \
 	--restart unless-stopped \
-	docker-eibd-rpi
+	s10l/eibd-rpi
 ```
 
 ### Parameters
